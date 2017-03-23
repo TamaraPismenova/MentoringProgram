@@ -1,0 +1,6 @@
+C:\Users\Tamara_Pismenova@epam.com\Projects\Study\Trainings\Test Automation Mentoring Program\Projects\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Tamara_Pismenova@epam.com\Projects\Study\Trainings\Test Automation Mentoring Program\Projects\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\Tamara_Pismenova@epam.com\Projects\Study\Trainings\Test Automation Mentoring Program\Projects\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\Tamara_Pismenova@epam.com\Projects\Study\Trainings\Test Automation Mentoring Program\Projects\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\Tamara_Pismenova@epam.com\Projects\Study\Trainings\Test Automation Mentoring Program\Projects\Task2\Task2\obj\Debug\Task2.pdb
+C:\Users\Tamara_Pismenova@epam.com\Projects\Study\Trainings\Test Automation Mentoring Program\Projects\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
