@@ -3,3 +3,6 @@ C:\Users\Tamara_Pismenova@epam.com\Projects\Study\Trainings\Test Automation Ment
 C:\Users\Tamara_Pismenova@epam.com\Projects\Study\Trainings\Test Automation Mentoring Program\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\Tamara_Pismenova@epam.com\Projects\Study\Trainings\Test Automation Mentoring Program\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Tamara_Pismenova@epam.com\Projects\Study\Trainings\Test Automation Mentoring Program\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Tamara_Pismenova@epam.com\Projects\Study\Trainings\Test Automation Mentoring Program\Repository\MentoringProgram\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Tamara_Pismenova@epam.com\Projects\Study\Trainings\Test Automation Mentoring Program\Repository\MentoringProgram\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Tamara_Pismenova@epam.com\Projects\Study\Trainings\Test Automation Mentoring Program\Repository\MentoringProgram\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
