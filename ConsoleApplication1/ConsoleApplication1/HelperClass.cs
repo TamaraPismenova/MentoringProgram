@@ -12,7 +12,12 @@ namespace ConsoleApplication1
 
         public void GetHelp()
         {
-            //GetHelp empty class added
+            //GetHelp empty added
+        }
+
+        public void GetHelp2()
+        {
+            //GetHelp2 empty added
         }
 
     }
